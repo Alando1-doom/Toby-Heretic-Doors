@@ -1,0 +1,13 @@
+amb/heretic/greendoor				"sounds/HereticLockedDoors/hrgdoor.ogg"
+door/heretic/deniedgreen			"sounds/HereticLockedDoors/greentry.ogg"
+door/heretic/greengranted			"sounds/HereticLockedDoors/grnyes.ogg"
+
+amb/heretic/bluedoor					"sounds/HereticLockedDoors/hrbdoor.ogg"
+door/heretic/deniedblue				"sounds/HereticLockedDoors/bluetry.ogg"
+door/heretic/bluegranted				"sounds/HereticLockedDoors/blueyes.ogg"
+
+amb/heretic/yellowdoor				"sounds/HereticLockedDoors/hrydoor.ogg"
+door/heretic/deniedyellow			"sounds/HereticLockedDoors/yelwtry.ogg"
+door/heretic/yellowgranted			"sounds/HereticLockedDoors/yelwyes.ogg"
+
+amb/heretic/anydoor					"sounds/HereticLockedDoors/hranydr.ogg"
