@@ -1,13 +1,24 @@
-amb/heretic/greendoor				"sounds/HereticLockedDoors/hrgdoor.ogg"
-door/heretic/deniedgreen			"sounds/HereticLockedDoors/greentry.ogg"
-door/heretic/greengranted			"sounds/HereticLockedDoors/grnyes.ogg"
+$rolloff amb/heretic/greendoor linear 96 208
+amb/heretic/greendoor				hrgdoor
+door/heretic/deniedgreen			greentry
+door/heretic/greengranted			grnyes
 
-amb/heretic/bluedoor					"sounds/HereticLockedDoors/hrbdoor.ogg"
-door/heretic/deniedblue				"sounds/HereticLockedDoors/bluetry.ogg"
-door/heretic/bluegranted				"sounds/HereticLockedDoors/blueyes.ogg"
+$rolloff amb/heretic/bluedoor linear 96 208
+amb/heretic/bluedoor					hrbdoor
+door/heretic/deniedblue				bluetry
+door/heretic/bluegranted				blueyes
 
-amb/heretic/yellowdoor				"sounds/HereticLockedDoors/hrydoor.ogg"
-door/heretic/deniedyellow			"sounds/HereticLockedDoors/yelwtry.ogg"
-door/heretic/yellowgranted			"sounds/HereticLockedDoors/yelwyes.ogg"
+$rolloff amb/heretic/yellowdoor linear 96 208
+amb/heretic/yellowdoor				hrydoor
+door/heretic/deniedyellow			yelwtry
+door/heretic/yellowgranted			yelwyes
 
-amb/heretic/anydoor					"sounds/HereticLockedDoors/hranydr.ogg"
+$rolloff amb/heretic/anydoor linear 96 208
+amb/heretic/anydoor					hranydr
+door/deniedany			dsanykey
+
+$rolloff amb/3door linear 96 208
+amb/3door				3keydm
+door/denied3				ds3key
+
+door/granted				dsaccyes
